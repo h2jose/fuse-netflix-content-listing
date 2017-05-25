@@ -1,0 +1,33 @@
+<Page ux:Class="ContentList" Background="#111114" Transition="None">
+	<Router ux:Dependency="router" />
+	<Android.StatusBarConfig IsVisible="true" />
+	<DockPanel>
+		<DockPanel Dock="Top" Margin="0">
+			<StatusBarBackground Dock="Top" Opacity="0"/>
+			<Text Value="Some logo" Color="#CCCCCC" FontSize="20" Margin="5,5,5,5" />
+		</DockPanel>
+		<ScrollView Background="#1F1F25" Margin="0,0,0,0" Padding="0,5,0,20" AllowedScrollDirections="Vertical">
+			<StackPanel Alignment="Top">
+				<Each ux:Name="EachVertical" Items="{Content.sections}" >
+					<Panel Margin="10,10,0,10">
+						<StackPanel>
+							<Text Value="{title}" Color="#FFFFFF" FontSize="18"/>
+							<ScrollView Margin="0,5,0,0" AllowedScrollDirections="Horizontal">
+								<StackPanel Orientation="Horizontal">
+									<Each Items="{objects}" Limit="99">
+										<Rectangle Height="140" Margin="0,0,10,0" Width="103" Clicked="{OpenContentDetails}" Background="Black">
+											<Image Height="140" Width="103" StretchMode="UniformToFill" Url="http://127.0.0.1:9000/images/{image}" />
+										</Rectangle>
+									</Each>
+								</StackPanel>
+							</ScrollView>
+						</StackPanel>
+					</Panel>
+				</Each>
+			</StackPanel>
+			<WhileScrollable ScrollDirections="Down" Invert="true">
+			</WhileScrollable>				
+		</ScrollView>
+	</DockPanel>	
+	<JavaScript File="ContentList.js" />
+</Page>

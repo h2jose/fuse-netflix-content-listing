@@ -1,0 +1,27 @@
+<Page ux:Class="ContentDetails" Background="#111114">
+	<Router ux:Dependency="router" />
+
+	<Android.StatusBarConfig IsVisible="true" />
+	
+	<Image File="../Images/prev@2x.png" Y="20" X="20" Width="24" Clicked="{CloseDetails}" Opacity="0.5">	</Image>
+
+	<StackPanel>
+
+		<DockPanel>
+			<StatusBarBackground Dock="Top" Opacity="0"/>
+		</DockPanel>
+		
+		<Image LayoutMaster="BackgroundImage" Alignment="BottomRight" Y="28" Margin="0,0,10,0" File='../images/play.png' Width="56">
+		</Image>
+		<Image Width="100" LayoutMaster="BackgroundImage" Alignment="BottomLeft" Y="85" Margin="10,0,0,0" Url="http://127.0.0.1:9000/images/{Image}" /> 
+	</StackPanel>
+
+	<StackPanel>
+		<Image Alignment="Top" Opacity="0.75" ux:Name="BackgroundImage" Margin="0,0,0,100" Url="http://127.0.0.1:9000/images/{Hero}" />
+		<Text Value="{Title}" Color="White" TextWrapping="Wrap" TextAlignment="Left" Margin="10,0,10,10" />
+		<Text Value="{Description}" TextWrapping="Wrap" Margin="10,0,10,0" />
+	</StackPanel>
+
+	<JavaScript File="ContentDetails.js" />
+	
+</Page>

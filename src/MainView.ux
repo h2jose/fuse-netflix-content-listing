@@ -1,0 +1,11 @@
+<App Background="#111114">
+	<Router ux:Name="router" />
+	<DockPanel>
+		<BottomBarBackground Dock="Bottom" />
+		<Navigator>
+			<ContentList ux:Template="ContentList" router="router" />
+			<ContentDetails ux:Template="ContentDetails" router="router" />	
+		</Navigator>
+	</DockPanel>
+	<JavaScript File="MainView.js" />
+</App>

@@ -1,0 +1,332 @@
+{
+  "sections": [
+    {
+      "title": "Comedies",
+      "objects": [
+          {
+            "title":"Shaun of the Dead",
+            "description": "Shaun (Simon Pegg) is a 30-something loser with a dull, easy existence. When he's not working at the electronics store, he lives with his slovenly best friend,...",
+            "image": "shaun.jpg",
+            "hero": "shaun-hero.jpg"
+          },
+          {
+            "title":"Mars Attack",
+            "description": "A fleet of Martian spacecraft surrounds the world's major cities and all of humanity waits to see if the extraterrestrial visitors have, as they claim, come in peace,...",
+            "image": "mars.jpg",
+            "hero": "mars-hero.jpg"
+          },
+          {
+            "title":"Groundhog Day",
+            "description": "Phil (Bill Murray), a weatherman, is out to cover the annual emergence of the groundhog from its hole. He gets caught in a blizzard that he didn't predict and finds,...",
+            "image": "groundhog.jpg",
+            "hero": "groundhog-hero.jpg"
+          },
+          {
+            "title":"Shaun of the Dead",
+            "description": "Shaun (Simon Pegg) is a 30-something loser with a dull, easy existence. When he's not working at the electronics store, he lives with his slovenly best friend,...",
+            "image": "shaun.jpg",
+            "hero": "shaun-hero.jpg"
+          },
+          {
+            "title":"Mars Attack",
+            "description": "A fleet of Martian spacecraft surrounds the world's major cities and all of humanity waits to see if the extraterrestrial visitors have, as they claim, come in peace,...",
+            "image": "mars.jpg",
+            "hero": "mars-hero.jpg"
+          },
+          {
+            "title":"Groundhog Day",
+            "description": "Phil (Bill Murray), a weatherman, is out to cover the annual emergence of the groundhog from its hole. He gets caught in a blizzard that he didn't predict and finds,...",
+            "image": "groundhog.jpg",
+            "hero": "groundhog-hero.jpg"
+          }
+        ]
+    },
+    {
+      "title": "Cult",
+      "objects": [
+          {
+            "title": "Donnie Darko",
+            "description": "In a funny, moving and distinctly mind-bending journey through suburban America, one extraordinary but disenchanted teenager is about to take Time's Arrow for a ride...",
+            "image": "darko.jpg",
+            "hero": "darko-hero.jpg"
+          },
+          {
+            "title": "Eraserhead",
+            "description": "Henry (John Nance) resides alone in a bleak apartment surrounded by industrial gloom. When he discovers that an earlier fling with Mary X (Charlotte Stewart) left her pregnant...",
+            "image": "eraserhead.jpg",
+            "hero": "eraserhead-hero.jpg"
+          },
+          {
+            "title": "A Clockwork Orange",
+            "description": "In an England of the future, Alex (Malcolm McDowell) and his Droogs spend their nights getting high at the Korova Milkbar before embarking on a little of the old ultraviolence,...",
+            "image": "orange.jpg",
+            "hero": "orange-hero.jpg"
+          },
+          {
+            "title": "Donnie Darko",
+            "description": "In a funny, moving and distinctly mind-bending journey through suburban America, one extraordinary but disenchanted teenager is about to take Time's Arrow for a ride...",
+            "image": "darko.jpg",
+            "hero": "darko-hero.jpg"
+          },
+          {
+            "title": "Eraserhead",
+            "description": "Henry (John Nance) resides alone in a bleak apartment surrounded by industrial gloom. When he discovers that an earlier fling with Mary X (Charlotte Stewart) left her pregnant...",
+            "image": "eraserhead.jpg",
+            "hero": "eraserhead-hero.jpg"
+          },
+          {
+            "title": "A Clockwork Orange",
+            "description": "In an England of the future, Alex (Malcolm McDowell) and his Droogs spend their nights getting high at the Korova Milkbar before embarking on a little of the old ultraviolence,...",
+            "image": "orange.jpg",
+            "hero": "orange-hero.jpg"
+          }
+        ]
+    },
+    {
+      "title": "Comedies",
+      "objects": [
+          {
+            "title":"Shaun of the Dead",
+            "description": "Shaun (Simon Pegg) is a 30-something loser with a dull, easy existence. When he's not working at the electronics store, he lives with his slovenly best friend,...",
+            "image": "shaun.jpg",
+            "hero": "shaun-hero.jpg"
+          },
+          {
+            "title":"Mars Attack",
+            "description": "A fleet of Martian spacecraft surrounds the world's major cities and all of humanity waits to see if the extraterrestrial visitors have, as they claim, come in peace,...",
+            "image": "mars.jpg",
+            "hero": "mars-hero.jpg"
+          },
+          {
+            "title":"Groundhog Day",
+            "description": "Phil (Bill Murray), a weatherman, is out to cover the annual emergence of the groundhog from its hole. He gets caught in a blizzard that he didn't predict and finds,...",
+            "image": "groundhog.jpg",
+            "hero": "groundhog-hero.jpg"
+          },
+          {
+            "title":"Shaun of the Dead",
+            "description": "Shaun (Simon Pegg) is a 30-something loser with a dull, easy existence. When he's not working at the electronics store, he lives with his slovenly best friend,...",
+            "image": "shaun.jpg",
+            "hero": "shaun-hero.jpg"
+          },
+          {
+            "title":"Mars Attack",
+            "description": "A fleet of Martian spacecraft surrounds the world's major cities and all of humanity waits to see if the extraterrestrial visitors have, as they claim, come in peace,...",
+            "image": "mars.jpg",
+            "hero": "mars-hero.jpg"
+          },
+          {
+            "title":"Groundhog Day",
+            "description": "Phil (Bill Murray), a weatherman, is out to cover the annual emergence of the groundhog from its hole. He gets caught in a blizzard that he didn't predict and finds,...",
+            "image": "groundhog.jpg",
+            "hero": "groundhog-hero.jpg"
+          }
+        ]
+    },
+    {
+      "title": "Cult",
+      "objects": [
+          {
+            "title": "Donnie Darko",
+            "description": "In a funny, moving and distinctly mind-bending journey through suburban America, one extraordinary but disenchanted teenager is about to take Time's Arrow for a ride...",
+            "image": "darko.jpg",
+            "hero": "darko-hero.jpg"
+          },
+          {
+            "title": "Eraserhead",
+            "description": "Henry (John Nance) resides alone in a bleak apartment surrounded by industrial gloom. When he discovers that an earlier fling with Mary X (Charlotte Stewart) left her pregnant...",
+            "image": "eraserhead.jpg",
+            "hero": "eraserhead-hero.jpg"
+          },
+          {
+            "title": "A Clockwork Orange",
+            "description": "In an England of the future, Alex (Malcolm McDowell) and his Droogs spend their nights getting high at the Korova Milkbar before embarking on a little of the old ultraviolence,...",
+            "image": "orange.jpg",
+            "hero": "orange-hero.jpg"
+          },
+          {
+            "title": "Donnie Darko",
+            "description": "In a funny, moving and distinctly mind-bending journey through suburban America, one extraordinary but disenchanted teenager is about to take Time's Arrow for a ride...",
+            "image": "darko.jpg",
+            "hero": "darko-hero.jpg"
+          },
+          {
+            "title": "Eraserhead",
+            "description": "Henry (John Nance) resides alone in a bleak apartment surrounded by industrial gloom. When he discovers that an earlier fling with Mary X (Charlotte Stewart) left her pregnant...",
+            "image": "eraserhead.jpg",
+            "hero": "eraserhead-hero.jpg"
+          },
+          {
+            "title": "A Clockwork Orange",
+            "description": "In an England of the future, Alex (Malcolm McDowell) and his Droogs spend their nights getting high at the Korova Milkbar before embarking on a little of the old ultraviolence,...",
+            "image": "orange.jpg",
+            "hero": "orange-hero.jpg"
+          }
+        ]
+    },
+    {
+      "title": "Comedies",
+      "objects": [
+          {
+            "title":"Shaun of the Dead",
+            "description": "Shaun (Simon Pegg) is a 30-something loser with a dull, easy existence. When he's not working at the electronics store, he lives with his slovenly best friend,...",
+            "image": "shaun.jpg",
+            "hero": "shaun-hero.jpg"
+          },
+          {
+            "title":"Mars Attack",
+            "description": "A fleet of Martian spacecraft surrounds the world's major cities and all of humanity waits to see if the extraterrestrial visitors have, as they claim, come in peace,...",
+            "image": "mars.jpg",
+            "hero": "mars-hero.jpg"
+          },
+          {
+            "title":"Groundhog Day",
+            "description": "Phil (Bill Murray), a weatherman, is out to cover the annual emergence of the groundhog from its hole. He gets caught in a blizzard that he didn't predict and finds,...",
+            "image": "groundhog.jpg",
+            "hero": "groundhog-hero.jpg"
+          },
+          {
+            "title":"Shaun of the Dead",
+            "description": "Shaun (Simon Pegg) is a 30-something loser with a dull, easy existence. When he's not working at the electronics store, he lives with his slovenly best friend,...",
+            "image": "shaun.jpg",
+            "hero": "shaun-hero.jpg"
+          },
+          {
+            "title":"Mars Attack",
+            "description": "A fleet of Martian spacecraft surrounds the world's major cities and all of humanity waits to see if the extraterrestrial visitors have, as they claim, come in peace,...",
+            "image": "mars.jpg",
+            "hero": "mars-hero.jpg"
+          },
+          {
+            "title":"Groundhog Day",
+            "description": "Phil (Bill Murray), a weatherman, is out to cover the annual emergence of the groundhog from its hole. He gets caught in a blizzard that he didn't predict and finds,...",
+            "image": "groundhog.jpg",
+            "hero": "groundhog-hero.jpg"
+          }
+        ]
+    },
+    {
+      "title": "Cult",
+      "objects": [
+          {
+            "title": "Donnie Darko",
+            "description": "In a funny, moving and distinctly mind-bending journey through suburban America, one extraordinary but disenchanted teenager is about to take Time's Arrow for a ride...",
+            "image": "darko.jpg",
+            "hero": "darko-hero.jpg"
+          },
+          {
+            "title": "Eraserhead",
+            "description": "Henry (John Nance) resides alone in a bleak apartment surrounded by industrial gloom. When he discovers that an earlier fling with Mary X (Charlotte Stewart) left her pregnant...",
+            "image": "eraserhead.jpg",
+            "hero": "eraserhead-hero.jpg"
+          },
+          {
+            "title": "A Clockwork Orange",
+            "description": "In an England of the future, Alex (Malcolm McDowell) and his Droogs spend their nights getting high at the Korova Milkbar before embarking on a little of the old ultraviolence,...",
+            "image": "orange.jpg",
+            "hero": "orange-hero.jpg"
+          },
+          {
+            "title": "Donnie Darko",
+            "description": "In a funny, moving and distinctly mind-bending journey through suburban America, one extraordinary but disenchanted teenager is about to take Time's Arrow for a ride...",
+            "image": "darko.jpg",
+            "hero": "darko-hero.jpg"
+          },
+          {
+            "title": "Eraserhead",
+            "description": "Henry (John Nance) resides alone in a bleak apartment surrounded by industrial gloom. When he discovers that an earlier fling with Mary X (Charlotte Stewart) left her pregnant...",
+            "image": "eraserhead.jpg",
+            "hero": "eraserhead-hero.jpg"
+          },
+          {
+            "title": "A Clockwork Orange",
+            "description": "In an England of the future, Alex (Malcolm McDowell) and his Droogs spend their nights getting high at the Korova Milkbar before embarking on a little of the old ultraviolence,...",
+            "image": "orange.jpg",
+            "hero": "orange-hero.jpg"
+          }
+        ]
+    },
+    {
+      "title": "Comedies",
+      "objects": [
+          {
+            "title":"Shaun of the Dead",
+            "description": "Shaun (Simon Pegg) is a 30-something loser with a dull, easy existence. When he's not working at the electronics store, he lives with his slovenly best friend,...",
+            "image": "shaun.jpg",
+            "hero": "shaun-hero.jpg"
+          },
+          {
+            "title":"Mars Attack",
+            "description": "A fleet of Martian spacecraft surrounds the world's major cities and all of humanity waits to see if the extraterrestrial visitors have, as they claim, come in peace,...",
+            "image": "mars.jpg",
+            "hero": "mars-hero.jpg"
+          },
+          {
+            "title":"Groundhog Day",
+            "description": "Phil (Bill Murray), a weatherman, is out to cover the annual emergence of the groundhog from its hole. He gets caught in a blizzard that he didn't predict and finds,...",
+            "image": "groundhog.jpg",
+            "hero": "groundhog-hero.jpg"
+          },
+          {
+            "title":"Shaun of the Dead",
+            "description": "Shaun (Simon Pegg) is a 30-something loser with a dull, easy existence. When he's not working at the electronics store, he lives with his slovenly best friend,...",
+            "image": "shaun.jpg",
+            "hero": "shaun-hero.jpg"
+          },
+          {
+            "title":"Mars Attack",
+            "description": "A fleet of Martian spacecraft surrounds the world's major cities and all of humanity waits to see if the extraterrestrial visitors have, as they claim, come in peace,...",
+            "image": "mars.jpg",
+            "hero": "mars-hero.jpg"
+          },
+          {
+            "title":"Groundhog Day",
+            "description": "Phil (Bill Murray), a weatherman, is out to cover the annual emergence of the groundhog from its hole. He gets caught in a blizzard that he didn't predict and finds,...",
+            "image": "groundhog.jpg",
+            "hero": "groundhog-hero.jpg"
+          }
+        ]
+    },
+    {
+      "title": "Cult",
+      "objects": [
+          {
+            "title": "Donnie Darko",
+            "description": "In a funny, moving and distinctly mind-bending journey through suburban America, one extraordinary but disenchanted teenager is about to take Time's Arrow for a ride...",
+            "image": "darko.jpg",
+            "hero": "darko-hero.jpg"
+          },
+          {
+            "title": "Eraserhead",
+            "description": "Henry (John Nance) resides alone in a bleak apartment surrounded by industrial gloom. When he discovers that an earlier fling with Mary X (Charlotte Stewart) left her pregnant...",
+            "image": "eraserhead.jpg",
+            "hero": "eraserhead-hero.jpg"
+          },
+          {
+            "title": "A Clockwork Orange",
+            "description": "In an England of the future, Alex (Malcolm McDowell) and his Droogs spend their nights getting high at the Korova Milkbar before embarking on a little of the old ultraviolence,...",
+            "image": "orange.jpg",
+            "hero": "orange-hero.jpg"
+          },
+          {
+            "title": "Donnie Darko",
+            "description": "In a funny, moving and distinctly mind-bending journey through suburban America, one extraordinary but disenchanted teenager is about to take Time's Arrow for a ride...",
+            "image": "darko.jpg",
+            "hero": "darko-hero.jpg"
+          },
+          {
+            "title": "Eraserhead",
+            "description": "Henry (John Nance) resides alone in a bleak apartment surrounded by industrial gloom. When he discovers that an earlier fling with Mary X (Charlotte Stewart) left her pregnant...",
+            "image": "eraserhead.jpg",
+            "hero": "eraserhead-hero.jpg"
+          },
+          {
+            "title": "A Clockwork Orange",
+            "description": "In an England of the future, Alex (Malcolm McDowell) and his Droogs spend their nights getting high at the Korova Milkbar before embarking on a little of the old ultraviolence,...",
+            "image": "orange.jpg",
+            "hero": "orange-hero.jpg"
+          }
+        ]
+    }
+  ]
+}
